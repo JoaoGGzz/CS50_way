@@ -36,3 +36,21 @@ I use it to:
 ## Goal
 
 My goal with this journey is to strengthen my fundamentals in computer science, improve my problem-solving skills, and gradually transition into the technology field with a solid portfolio of projects and studies.
+
+
+## Lecture Notes
+
+### Lecture 1
+Write here a short summary of what you learned.
+
+### Lecture 2
+Write here a short summary of what you learned.
+
+### Lecture 3
+Write here a short summary of what you learned.
+
+### Lecture 4
+Write here a short summary of what you learned.
+
+### Lecture 5
+Write here a short summary of what you learned.

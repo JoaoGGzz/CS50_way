@@ -1,0 +1,17 @@
+sort1 uses:  Bubble sort
+
+How do you know?: Because after measuring all execution times of sort's algorithms, we can see
+the sort1 was faster than sort3 in all sorted datasets (Best case) appearing to be Bubble Sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: Because after measuring all execution times of all sort's algoritms, we can see
+the sort2 was faster than the others sort1 and sort3.
+
+sort3 uses: Selection Sort
+
+How do you know?: After measuring the execution time, we can see
+the sort3 algorithm was slower than sort1 in the sorted datasets (Bast case).
+And a particular case happens on reversed datasets (Middle case), because of
+behavior of Selection sort logics, it works better than Bubble sort.
+

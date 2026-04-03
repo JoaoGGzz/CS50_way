@@ -101,6 +101,8 @@ unsigned int hash(char *user_name)
 {
     // Creating a unsigned number using the -A logic calculus to always have a number between 0 to 25
     unsigned int hash_number = toupper(user_name[0]) - 'A';
+    //unsigned int hash_number = toupper(*(user_name + 0)) - 'A';
+    //unsigned int hash_number = toupper(*user_name) - 'A';
 
     // Returning the generated number
     return hash_number;
